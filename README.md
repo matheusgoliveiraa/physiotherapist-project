@@ -12,13 +12,14 @@ Este projeto tem como objetivo principal divulgar os serviços oferecidos pela f
 </p>
 
 <p align="center">
-  <img alt="License" src=".github/preview.png">
+  <img alt="License" src="https://github.com/user-attachments/assets/c6f3e8d8-b2a9-4e18-85d9-91da4996ca90">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Descubra os Serviços da Fisio Alycia" src=".github/preview-mobile.png" width="50%">
+  <img alt="Descubra os Serviços da Fisio Alycia" src="https://github.com/user-attachments/assets/c29104e8-93ce-41ce-82b6-5d4cb6e70f6c"
+ width="50%">
 </p>
 
 ## 🚀 Tecnologias
